@@ -1,5 +1,3 @@
-Benefits of Incorporating AI into Customer Support Practices
-===================================================================================================================
 
 AI-driven customer support is revolutionizing the way organizations provide assistance and service to their customers. In this chapter, we will explore the benefits of incorporating AI into customer support practices.
 

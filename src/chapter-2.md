@@ -1,5 +1,3 @@
-Chapter 2: Tools and Technologies for AI-Driven Customer Support
-================================================================
 
 AI can be a powerful tool for enhancing customer support. In this chapter, we will explore the available tools and technologies for implementing AI-driven customer support, as well as best practices for selecting the right tools for your organization's needs.
 

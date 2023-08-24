@@ -1,5 +1,3 @@
-Understanding the Role of AI in Customer Support
-=======================================================================================================
 
 AI-driven customer support is transforming the way organizations interact with their customers. In this chapter, we will explore the role of AI in customer support and how it can improve the overall customer experience.
 

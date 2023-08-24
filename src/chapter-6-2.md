@@ -1,5 +1,3 @@
-Personalized Recovery Recommendations and Interventions using AI
-===========================================================================================================================
 
 Customer support escalations can be time-consuming, frustrating, and costly for both customers and organizations. In this chapter, we will explore how AI-powered tools can streamline escalation and resolution processes by providing personalized recovery recommendations and interventions.
 

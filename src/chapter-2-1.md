@@ -1,5 +1,3 @@
-Overview of Available Tools and Technologies
-==============================================================================================================
 
 AI can be a powerful tool for enhancing customer support. In this chapter, we will provide an overview of the tools and technologies that are available for implementing AI-driven customer support.
 

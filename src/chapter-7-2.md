@@ -1,5 +1,3 @@
-Mitigating Risks and Ensuring Compliance
-===========================================================================================================
 
 As AI-powered customer support becomes increasingly popular, it is important for organizations to consider the ethical and legal implications of these technologies. In this chapter, we will explore how organizations can manage ethics and bias in AI-driven customer support while mitigating risks and ensuring compliance.
 
