@@ -10,3 +10,7 @@ The following chapters will cover a range of topics related to AI-driven custome
 Whether you are a customer service professional, marketer, or business owner, "AI-Driven Customer Support" provides valuable insights and practical strategies for leveraging AI to enhance your customer support strategies. By the end of this book, you will have a deep understanding of the role of AI in customer support and how it can be used to drive better customer experiences and increased loyalty.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
